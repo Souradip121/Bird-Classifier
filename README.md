@@ -1,7 +1,3 @@
-Here's a GitHub README for your `bird_classifier` project, covering setup, usage, and an overview of each function.
-
----
-
 # Bird Classifier
 
 This project is a bird classification system that distinguishes between images of birds and non-bird images. It leverages a pre-trained deep learning model, ResNet-18, fine-tuned on a small dataset of bird and forest images.
